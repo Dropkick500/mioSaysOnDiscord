@@ -1,2 +1,0 @@
-# mioSaysOnDiscord
-MioSays Discord Bot
