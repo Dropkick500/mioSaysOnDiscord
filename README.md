@@ -6,7 +6,7 @@ Takes in text from discord user, pipes into shell script, and sends back the ima
 There is also an added fortune ability where it can use fortune regularly or with a custom file.
 
 ## Example
-![Example](https://github.com/Dropkick500/mioSaysOnDiscord/blob/master/example.png "")
+![Example](https://raw.githubusercontent.com/Dropkick500/mioSaysOnDiscord/main/example.png "")
 
 ## Requirements
 [Node.js(With NPM)](https://nodejs.org/en/), [Discord.js](https://discord.js.org/), [ExecSync](https://www.npmjs.com/package/execSync/), [fortune-mod](https://github.com/shlomif/fortune-mod), [ImageMagick](https://imagemagick.org/) and the Aforementioned Shell Script to run.
